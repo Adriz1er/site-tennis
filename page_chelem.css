@@ -1,0 +1,27 @@
+pg {
+font-family: Arial;
+font-weight: bold;
+}
+
+p{
+    font-family: Arial;
+}
+
+h1 {
+text-decoration: underline;
+text-decoration-color: orange;
+
+}
+
+h2 {
+text-decoration: underline;
+text-decoration-color: skyblue;
+}
+
+pw {
+color: white;    
+}
+table {
+background-image: url(font_tab.v2.PNG);
+font-size: 40px;
+}

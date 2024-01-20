@@ -1,0 +1,42 @@
+img {
+width: 500px;
+height: 400px;
+}
+
+img1 {
+width: 1000px;
+height: 1000px;  
+}
+
+h0 {
+background-image: url(fond_ecran_h1.v3.PNG);
+font-size: 140px;
+color: orangered;
+}
+
+p {
+    color: red;
+}
+
+table {
+background-image: url(font_tab.v2.PNG);
+font-size: 40px;
+}
+
+pw {
+color: white;    
+}
+
+p1 {
+font-family: Arial;
+color: blue; 
+}
+
+img.id {
+width: 650px;
+height: 500px;  
+}
+a:visited {color: blue;}
+
+
+	
